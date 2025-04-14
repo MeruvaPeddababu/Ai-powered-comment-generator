@@ -1,5 +1,5 @@
 # Ai-powered-comment-generator
-
+# https://colab.research.google.com/drive/140Xxg55eE7pRKt4z4cnOlCdvcRoAdjZl#scrollTo=hZQc32ojBe6J 
 An AI-powered tool that generates professional LinkedIn comments for healthcare AI posts using state-of-the-art language models like Claude 3 Sonnet and LLaMA 3. Built with Gradio, this app helps healthcare professionals engage with posts meaningfully and consistently.
 
 🚀 Features
