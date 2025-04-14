@@ -22,7 +22,7 @@ Libraries: requests, datetime, collections, json
 
 🔧 How to Run
 Clone the repo
-git clone https://github.com/your-username/healthcare-ai-comment-generator.git
+git clone https://github.com/MeruvaPeddababu/healthcare-ai-comment-generator.git
 
 Install dependencies
 pip install -r requirements.txt
